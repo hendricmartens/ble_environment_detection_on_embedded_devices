@@ -2,4 +2,12 @@
 Environment detection using embedded neural networks to classify data obtained from BLE scans
 
 
-notebook running in google colab: https://colab.research.google.com/drive/1yisS1fo_dQ5WeFZsvQQ41gMlBqhGM532?usp=sharing
+code is still very unclean!!
+I will clean it up till mid next week. 
+
+
+Contains:
+-the detection algorithm to run on nRF52840 (which includes the algorithm to collect data samples)
+-and notebook to build and train the neural network
+(alternative running in google colab: https://colab.research.google.com/drive/1yisS1fo_dQ5WeFZsvQQ41gMlBqhGM532?usp=sharing)
+-the data used for training, testing and evaluation
