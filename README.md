@@ -1,4 +1,4 @@
-# BLE environment detction on embedded devices
+# BLE environment detection on embedded devices
 Environment detection using embedded neural networks to classify data obtained from BLE scans
 
 
