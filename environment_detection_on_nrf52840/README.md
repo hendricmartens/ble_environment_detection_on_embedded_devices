@@ -1,4 +1,4 @@
-##Setup
+## Setup
 
 1. Install Zephyr (https://www.zephyrproject.org)
 2. Put this folder into zephyr/samples/ 
