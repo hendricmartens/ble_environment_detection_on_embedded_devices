@@ -1,2 +1,0 @@
-osource "/Users/hmartens/zephyrproject/zephyr/soc/$(ARCH)/Kconfig"
-osource "/Users/hmartens/zephyrproject/zephyr/soc/$(ARCH)/*/Kconfig"
